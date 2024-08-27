@@ -1,0 +1,50 @@
+*{
+    margin: 10px;
+}
+
+.rojo{
+    background-color: red;
+    padding: 80px;
+    
+}
+.amarillo{
+    background-color: yellow;
+    padding: 70px;
+    border-radius: 50%;
+    
+}
+.verde{
+    background-color: green;
+    padding: 60px;
+    border-radius: 50%;
+}
+.azul{
+    
+        background-color:blue;
+        padding: 50px;
+        border-radius: 50%;
+    
+}
+.cafe{
+    background-color: brown;
+    padding: 40px;
+    border-radius: 50%;
+}
+.otro{
+    background-color: mistyrose;
+    padding: 30px;
+    border-radius: 50%;
+}
+.morado{
+    background-color: purple;
+    padding: 30px;
+    border-radius: 50%;
+    
+}
+.a{
+    background-color: gray;
+    padding: 40px;
+    border-radius: 50%;
+    
+}
+
